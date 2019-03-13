@@ -16,14 +16,14 @@
 generate_crochet_img <- function(nr_of_img) {
   
   # setting the seed(0104)
-  seeds <- generate_seeds(nr_of_img)
+  seeds <- generativeart::generate_seeds(nr_of_img)
   message(paste0("seed: ", seeds))
   
   # I use walk() instead map(), in order to return just the image file
   purrr::walk(seeds, function(seed){
     
     # create an image file name
-    file_name <- generate_filename(seed)
+    file_name <- generativeart::generate_filename(seed)
     message(paste0("file_name: ", file_name))
     
     # doing the logging

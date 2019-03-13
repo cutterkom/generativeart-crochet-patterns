@@ -22,7 +22,7 @@ The data and the plot are generated [according this code](https://github.com/asc
 Blogpost: [Crochet Patterns](https://fronkonstin.com/2018/10/14/crochet-patterns/) on [Fronkonstin](https://fronkonstin.com/)
 
 ## To Do
-- Logging of a and b
+- Logging of a, b, c, d, e
 - how to connect to generative art? 
   - Include file_name and seed creation and deleting the dependecy library(generative art) --> lighter package
   - or keeping the dependency, but using just two basic funtions from there
