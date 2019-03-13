@@ -1,6 +1,10 @@
-# generativeart extension Crochet Patterns
+# generativeart Crochet Patterns
 
-<img src="https://fronkonstin.com/wp-content/uploads/2018/10/crochet_00.png" height="450" align="middle">
+<img src="https://katharinabrunner.de/wp-content/uploads/2019/03/rings_small.png">
+
+<img src="https://katharinabrunner.de/wp-content/uploads/2019/03/pentagon_small.png">
+
+<img src="https://katharinabrunner.de/wp-content/uploads/2019/03/round_small.png">
 
 ## Usage
 
