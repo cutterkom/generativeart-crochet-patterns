@@ -1,6 +1,6 @@
 # generativeart extension Crochet Patterns
 
-![](https://camo.githubusercontent.com/9eadff3fb74b1050096f32772be6bfa54b23884c/68747470733a2f2f66726f6e6b6f6e7374696e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31302f63726f636865745f30302e706e67)
+<img src="https://fronkonstin.com/wp-content/uploads/2018/10/crochet_00.png" height="450" align="middle">
 
 ## Usage
 
@@ -13,7 +13,7 @@ The data and the plot are generated [according this code](https://github.com/asc
 
 ## Attribution
 
-This work, `generativeart-crochet-patterns` by Katharina Brunner, is a derivative of [Crochet Patterns](https://github.com/aschinchon/crochet-patterns) by [Antonio Sánchez Chinchón](https://github.com/aschinchon). It is [licensed](https://github.com/cutterkom/generativeart-crochet-patterns/blob/master/LICENSE) and [used](https://github.com/aschinchon/crochet-patterns/blob/master/LICENSE) under MIT License.
+[generativeart Crochet Patterns](https://github.com/cutterkom/generativeart-crochet-patterns) by Katharina Brunner is a derivative of [Crochet Patterns](https://github.com/aschinchon/crochet-patterns) by [Antonio Sánchez Chinchón](https://github.com/aschinchon). It is [licensed](https://github.com/cutterkom/generativeart-crochet-patterns/blob/master/LICENSE) and [used](https://github.com/aschinchon/crochet-patterns/blob/master/LICENSE) under MIT License.
 
 Blogpost: [Crochet Patterns](https://fronkonstin.com/2018/10/14/crochet-patterns/) on [Fronkonstin](https://fronkonstin.com/)
 
