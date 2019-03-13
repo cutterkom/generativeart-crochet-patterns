@@ -1,10 +1,12 @@
 # generativeart Crochet Patterns
 
-<img src="https://katharinabrunner.de/wp-content/uploads/2019/03/rings_small.png">
+<div style = "overflow: hidden;">
+<img style = "width: 300px; float:left;" src="https://katharinabrunner.de/wp-content/uploads/2019/03/rings_small.png">
 
-<img src="https://katharinabrunner.de/wp-content/uploads/2019/03/pentagon_small.png">
+<img style = "width: 300px; float:left;" src="https://katharinabrunner.de/wp-content/uploads/2019/03/pentagon_small.png">
 
-<img src="https://katharinabrunner.de/wp-content/uploads/2019/03/round_small.png">
+<img style = "width: 300px; float:left;" src="https://katharinabrunner.de/wp-content/uploads/2019/03/round_small.png">
+</div>
 
 ## Usage
 
