@@ -1,13 +1,15 @@
 # generativeart Crochet Patterns
 
 <div style="overflow: hidden;">
-<img style="float:left;" height="450" src="https://katharinabrunner.de/wp-content/uploads/2019/03/rings_small.png">
+<img height="450" align="middle" src="https://katharinabrunner.de/wp-content/uploads/2019/03/rings_small.png">
 
-<img style="float:left;" height="450" src="https://katharinabrunner.de/wp-content/uploads/2019/03/pentagon_small.png">
+<img height="450" align="middle" src="https://katharinabrunner.de/wp-content/uploads/2019/03/pentagon_small.png">
 
-<img style=float:left;" height="450" src="https://katharinabrunner.de/wp-content/uploads/2019/03/round_small.png">
+<img height="450" align="middle" src="https://katharinabrunner.de/wp-content/uploads/2019/03/round_small.png">
 </div>
 
+
+<img style="float:left;" 
 ## Usage
 
 `run.R` in RStudio or via terminal `Rscript run.R`. 
